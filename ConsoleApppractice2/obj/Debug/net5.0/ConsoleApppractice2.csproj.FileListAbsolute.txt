@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\bin\Debug\net5.0\ConsoleApppractice2.exe
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\bin\Debug\net5.0\ConsoleApppractice2.deps.json
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\bin\Debug\net5.0\ConsoleApppractice2.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\bin\Debug\net5.0\ConsoleApppractice2.runtimeconfig.dev.json
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\bin\Debug\net5.0\ConsoleApppractice2.dll
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\bin\Debug\net5.0\ref\ConsoleApppractice2.dll
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\bin\Debug\net5.0\ConsoleApppractice2.pdb
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\obj\Debug\net5.0\ConsoleApppractice2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\obj\Debug\net5.0\ConsoleApppractice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\obj\Debug\net5.0\ConsoleApppractice2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\obj\Debug\net5.0\ConsoleApppractice2.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\obj\Debug\net5.0\ConsoleApppractice2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\obj\Debug\net5.0\ConsoleApppractice2.dll
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\obj\Debug\net5.0\ref\ConsoleApppractice2.dll
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\obj\Debug\net5.0\ConsoleApppractice2.pdb
+C:\Users\user\source\repos\ConsoleApppractice2\ConsoleApppractice2\obj\Debug\net5.0\ConsoleApppractice2.genruntimeconfig.cache
